@@ -1,5 +1,1 @@
 - Selectable location for fires
-- Consider Alternate for Weather Warnings maybe
-- Add Rainfall log Autofill current date/time
-- Graph - Warning to say add 2 or more rainfall logs
-- Sync from cloud - RainSyncWorker - Pass correct location info
